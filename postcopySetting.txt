@@ -1,0 +1,16 @@
+﻿botName,사라토가
+major,false
+yudong,false
+botName,0x04
+exceptionGallery,haruhiism
+searchURL,하루히
+maxPage,10
+customName,false
+leaveFootnote,false
+useFireFox,false
+useNickChanger,true
+useReplyCopy,true
+cutTooLong,true
+leaveMessage,false
+postDelay,6
+initVPN,false

@@ -1,0 +1,17 @@
+﻿dum,mybotnme1=mine,2=randShip,3=steal,network-comic_new1+nGram.txt
+gallID,comic_new1
+fileToRead,network-comic_new1.txt
+botName,사라토가
+major,true
+seconds,5
+delay,4.75
+yudong,true
+emergency,true
+useKey,false
+useNickDetection,true
+writePost,false
+skipSomePosts,true
+skipRate,0.2
+censorMode,false
+botNameMode,1
+useFireFox,false
